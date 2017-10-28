@@ -4,17 +4,16 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 28, 2017
 
 ### Student Name:  
-(First and Last Name)
+Tiffany Townsend
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was an introduction to javascript programming. It highlighted best practices, variables, statements, and common mistakes. It also provided a brief overview of google developer tools.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://tiffany327.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. (Briefly describe a lesson/concept learned in this lesson.)
